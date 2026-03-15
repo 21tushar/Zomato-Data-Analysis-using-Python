@@ -2,6 +2,7 @@
 
 This project performs an **Exploratory Data Analysis (EDA)** on a Zomato restaurant dataset to uncover insights into the food industry. By analyzing factors like cuisine, pricing, and ratings, this project aims to help business stakeholders and food enthusiasts understand market trends and customer preferences.
 <br>
+<br>
 
 **📊 Dataset Description**
 
