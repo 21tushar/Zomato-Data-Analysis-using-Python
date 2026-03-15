@@ -16,7 +16,7 @@ The dataset typically includes the following features:
 * **Has Online Delivery/Table Booking**: Availability of specific services.
 
 * **Aggregate Rating**: Average customer rating (0-5).
-
+<br>
 
 **🛠️ Tools & Libraries Used**
 
@@ -27,7 +27,7 @@ The dataset typically includes the following features:
 * **Matplotlib & Seaborn**: For creating static visualizations.
 
 * **Jupyter Notebook**: For interactive coding and documentation.
-
+<br>
 
 **🚀 How to Run**
 
