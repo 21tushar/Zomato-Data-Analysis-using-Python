@@ -1,7 +1,7 @@
 **📌 Project Overview**
 
 This project performs an **Exploratory Data Analysis (EDA)** on a Zomato restaurant dataset to uncover insights into the food industry. By analyzing factors like cuisine, pricing, and ratings, this project aims to help business stakeholders and food enthusiasts understand market trends and customer preferences.
-
+<br>
 
 **📊 Dataset Description**
 
@@ -31,8 +31,8 @@ The dataset typically includes the following features:
 
 **🚀 How to Run**
 
-* Clone this repository: git clone https://github.com/21tushar/Zomato-Data-Analysis-using-Python.git
+1. Clone this repository: git clone https://github.com/21tushar/Zomato-Data-Analysis-using-Python.git
 
-* Install dependencies: pip install numpy pandas matplotlib seaborn jupyter
+2. Install dependencies: pip install numpy pandas matplotlib seaborn jupyter
 
-* Launch Jupyter Notebook and open zomato.ipynb.
+3. Launch Jupyter Notebook and open zomato.ipynb.
