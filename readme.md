@@ -2,6 +2,7 @@
 
 This project performs an **Exploratory Data Analysis (EDA)** on a Zomato restaurant dataset to uncover insights into the food industry. By analyzing factors like cuisine, pricing, and ratings, this project aims to help business stakeholders and food enthusiasts understand market trends and customer preferences.
 
+
 **📊 Dataset Description**
 
 The dataset typically includes the following features:
@@ -16,6 +17,7 @@ The dataset typically includes the following features:
 
 * **Aggregate Rating**: Average customer rating (0-5).
 
+
 **🛠️ Tools & Libraries Used**
 
 * **Python**: Core programming language.
@@ -25,6 +27,7 @@ The dataset typically includes the following features:
 * **Matplotlib & Seaborn**: For creating static visualizations.
 
 * **Jupyter Notebook**: For interactive coding and documentation.
+
 
 **🚀 How to Run**
 
