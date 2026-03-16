@@ -32,7 +32,7 @@ The dataset typically includes the following features:
 
 **🚀 How to Run**
 
-1. Clone this repository: git clone https://github.com/21tushar/Zomato-Data-Analysis-using-Python.git
+1. Clone this repository: git clone https://github.com/21tushar/Zomato-Data-Analysis-Using-Python.git
 
 2. Install dependencies: pip install numpy pandas matplotlib seaborn jupyter
 
